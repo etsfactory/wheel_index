@@ -1,2 +1,2 @@
-# wheel_index
+# Wheel index
 Index for binary Python packages in wheel format
