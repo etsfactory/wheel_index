@@ -1,2 +1,3 @@
 theme: jekyll-theme-slate
 title: ETS Python Wheels Index
+description: Index for binary Python packages in wheel format
