@@ -12,4 +12,4 @@
 - [scipy-0.19.1-cp35-cp35m-win_amd64.whl](scipy-0.19.1-cp35-cp35m-win_amd64.whl)
 
 ### Linux
-Linux wheel are available in PyPI.
+Linux wheels are available in PyPI.
