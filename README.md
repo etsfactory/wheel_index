@@ -13,3 +13,7 @@
 
 ### Linux
 Linux wheels are available in PyPI.
+
+## Requests-NTLM (custom version supporting SSPI)
+### Windows only
+- [requests_ntlm_sspi-0.3.0-py3-none-any.whl](requests_ntlm_sspi-0.3.0-py3-none-any.whl)
