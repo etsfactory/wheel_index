@@ -30,6 +30,11 @@ Linux wheels are available in PyPI.
 ### Windows
 - [ecos-2.0.5-cp35-cp35m-win_amd64.whl](ecos-2.0.5-cp35-cp35m-win_amd64.whl)
 
+## Tables
+### Windows
+- [tables-3.4.2-cp35-cp35m-win_amd64.whl](tables-3.4.2-cp35-cp35m-win_amd64.whl)
+
+
 ## Requests-NTLM (custom version supporting SSPI)
 ### Windows only
 - [requests_ntlm_sspi-0.3.0-py3-none-any.whl](requests_ntlm_sspi-0.3.0-py3-none-any.whl)
