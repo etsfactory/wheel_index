@@ -16,7 +16,7 @@ Linux wheels are available in PyPI.
 
 ## Numpy
 ### Windows
-- [numpy-1.14.0-cp35-cp35m-win_amd64.whl](numpy-1.14.0-cp35-cp35m-win_amd64.whl)
+- [numpy-1.14.0-cp35-cp35m-win_amd64.whl](https://github.com/etsfactory/wheel_index/raw/master/numpy-1.14.0-cp35-cp35m-win_amd64.whl)
 
 ## CVXOPT
 ### Windows
