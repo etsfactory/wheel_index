@@ -14,6 +14,10 @@
 ### Linux
 Linux wheels are available in PyPI.
 
+## Numpy
+### Windows
+- [numpy-1.14.0-cp35-cp35m-win_amd64.whl](numpy-1.14.0-cp35-cp35m-win_amd64.whl)
+
 ## Requests-NTLM (custom version supporting SSPI)
 ### Windows only
 - [requests_ntlm_sspi-0.3.0-py3-none-any.whl](requests_ntlm_sspi-0.3.0-py3-none-any.whl)
