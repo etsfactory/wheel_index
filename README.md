@@ -18,6 +18,18 @@ Linux wheels are available in PyPI.
 ### Windows
 - [numpy-1.14.0-cp35-cp35m-win_amd64.whl](numpy-1.14.0-cp35-cp35m-win_amd64.whl)
 
+## CVXOPT
+### Windows
+- [cvxopt-1.1.9-cp35-cp35m-win_amd64.whl](cvxopt-1.1.9-cp35-cp35m-win_amd64.whl)
+
+## CVXPY
+### Windows
+- [cvxpy-0.4.11-cp35-cp35m-win_amd64.whl](cvxpy-0.4.11-cp35-cp35m-win_amd64.whl)
+
+## ECOS
+### Windows
+- [ecos-2.0.5-cp35-cp35m-win_amd64.whl](ecos-2.0.5-cp35-cp35m-win_amd64.whl)
+
 ## Requests-NTLM (custom version supporting SSPI)
 ### Windows only
 - [requests_ntlm_sspi-0.3.0-py3-none-any.whl](requests_ntlm_sspi-0.3.0-py3-none-any.whl)
