@@ -34,6 +34,7 @@ Linux wheels are available in PyPI.
 ### Windows
 - [tables-3.4.2-cp35-cp35m-win_amd64.whl](tables-3.4.2-cp35-cp35m-win_amd64.whl)
 - [tables-3.4.3-cp35-cp35m-win_amd64.whl](tables-3.4.3-cp35-cp35m-win_amd64.whl)
+- [tables-3.4.4-cp35-cp35m-win_amd64.whl](tables-3.4.3-cp35-cp35m-win_amd64.whl)
 
 
 ## Requests-NTLM (custom version supporting SSPI)
