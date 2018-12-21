@@ -7,6 +7,11 @@
 - [TA_Lib-0.4.10-cp35-cp35m-manylinux1_x86_64.whl](TA_Lib-0.4.10-cp35-cp35m-manylinux1_x86_64.whl)
 - [TA_Lib-0.4.10-cp36-cp36m-manylinux1_x86_64.whl](TA_Lib-0.4.10-cp36-cp36m-manylinux1_x86_64.whl)
 
+### MacOSX
+
+- [TA_Lib-0.4.10-cp35-cp35m-macosx_10_6_x86_64.whl](TA_Lib-0.4.10-cp35-cp35m-macosx_10_6_x86_64.whl)
+- [TA_Lib-0.4.10-cp36-cp36m-macosx_10_7_x86_64.whl](TA_Lib-0.4.10-cp36-cp36m-macosx_10_7_x86_64.whl)
+
 ## Scipy
 ### Windows
 - [scipy-0.19.1-cp35-cp35m-win_amd64.whl](scipy-0.19.1-cp35-cp35m-win_amd64.whl)
